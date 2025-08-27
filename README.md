@@ -1,0 +1,1 @@
+<img src="./whale-cover.png" alt="cover-image" width="100%" style="border-radius: 10px" />
